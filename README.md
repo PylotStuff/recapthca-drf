@@ -1,4 +1,4 @@
-# Add Recapctha to DRF
+# Add reCAPTCHA to DRF
 
 Adding Recaptcha is always good practice to avoid spambots such as creating dummy users that will fill the database with useless data. In DRF, some public API endpoints (register/login/reset password and etc.) need to be protected from such attacks.
 
